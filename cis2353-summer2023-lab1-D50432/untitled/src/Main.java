@@ -4,8 +4,9 @@ public class Main {
     public static void main(String[] args) {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
-        System.out.println("I am Mel.");
-        System.out.println(" I am not new to computers, programming, or school, but I am new to D2L");
-        System.out.println("I am struggling with D2L, but in my defense it is only the first few days using it");
+        System.out.println("My name is Mel Brothers, my pronouns are she/her.");
+        System.out.println(" She needs this class for her degree plan, and it is not being offered at my home school.");
+        System.out.println("When she is not in this class she is either in another class, working, or with her granddaughter");
+        System.out.println("Something interesting about her, the first degree she got was from U of Texas");
     }
 }
